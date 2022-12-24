@@ -1,0 +1,2 @@
+# WinterClicker
+Simple auto clicker
